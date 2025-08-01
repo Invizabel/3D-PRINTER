@@ -2,7 +2,7 @@ Cool STL Files that can be printed entirely in pla. No extra materials besides a
 
 PASS:
 * Air Tank
-* tooth pick print in place blaster
+* Tooth Pick Print In Place Blaster
 
 TODO:
 * Q-Tip Revolver
