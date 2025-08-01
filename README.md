@@ -1,4 +1,7 @@
 Cool STL Files that can be printed in pla
 
+PASS:
+* Air Tank
+
 TODO:
-* Test print in place tooth pick blaster, air tank
+* tooth pick print in place blaster
